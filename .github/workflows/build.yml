@@ -1,4 +1,4 @@
-on:
+on: 
   watch:
     types: started
 jobs:
